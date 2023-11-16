@@ -6,3 +6,4 @@ BD: bd_organica TABLAS: productos,provedoor,categoria
 ![](https://github.com/GonzalezBGA128/CRUD_RELACIONAL/blob/8102fab9b76a8168c6d8ad220f1f7b7bafe727e9/img%204.png)
 ![](https://github.com/GonzalezBGA128/CRUD_RELACIONAL/blob/c984d41f1aa40dfb63c892d92702124def162503/img%205.PNG)
 ![](https://github.com/GonzalezBGA128/CRUD_RELACIONAL/blob/604f69bcb30cc186512f91f31e4be263723f72b4/img%206.png)
+![](https://github.com/GonzalezBGA128/CRUD_RELACIONAL/blob/6a44bb29dd5dde31c252fa277a4a416de902e882/img%207.png)
